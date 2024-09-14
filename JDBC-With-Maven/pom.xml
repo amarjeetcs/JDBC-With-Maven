@@ -10,7 +10,7 @@
 
 	<name>JDBC-With-Maven</name>
 	<url>http://maven.apache.org</url>
-	//amarjeet
+	//amarjeet singh
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
